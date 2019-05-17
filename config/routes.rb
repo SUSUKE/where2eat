@@ -4,5 +4,5 @@ Rails.application.routes.draw do
   get 'lunch/go'#, to: 'luncj#go'
   #post 'eateries/create'
   root 'lunch#go'
-  #post 'eateries/create'
+  post 'eateries/create'
 end
