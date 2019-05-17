@@ -1,6 +1,6 @@
-<h1>ここに行こう！</h1>
+<center><h1>ここに行こう！</h1>
 <h2><%=@recommend.name %></h2>
 <h3>住所：〒<%=@recommend.zip %> <%=@recommend.address %></h3>
 <h3>電話番号：<%=@recommend.tel %></h3>
 <h3>営業時間：<%=@recommend.open %>〜<%=@recommend.close %></h3>
-<h3>定休日：<%=@recommend.reghol %></h3>
+<h3>定休日：<%=@recommend.reghol %></h3></center>
