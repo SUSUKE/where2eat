@@ -8,3 +8,4 @@
 
 Eatery.create(name: "清六家 筑波大学店", zip: "305-0005", address: "茨城県つくば市天久保3-4-8", tel: "029-875-9769", reghol: "無休", open: "0:00", close: "24:00")
 Eatery.create(name: "百香亭", zip: "305-0005", address: "茨城県つくば市天久保3-15-1", tel: "029-858-4360", reghol: "無休", open: "11:30", close: "23:00")
+Eatery.create(name: "マクドナルド つくば学園店", zip: "305-0034", address: "茨城県つくば市小野崎字千駄苅293-1", tel: "029-858-0785", reghol: "無休", open: "7:00", close: "23:00")
